@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>Ejercicio de Introducción a HTML en OpenBootcamp</title>
+    </head>
+    
+    <body>
+        <p>Este es mi primer comentario de dos líneas</p>
+        <p>Aprendiendo a documentar mi código con OpenBootcamp</p>
+        <div>
+            <ul>
+                <li>
+                    <a href="https://www.youtube.com/watch?v=CocEMWdc7Ck"> SHAKIRA || BZRP Music Sessions #53 </a>
+                </li>
+
+                <li>
+                    <a href="https://www.youtube.com/watch?v=XsjftW1bjNU"> Enanitos Verdes, Maná, Los Pericos, Cafe Tacuba, Mix Andrés Calamaro, Auténticos Decadentes </a>
+                </li>
+
+                <li>
+                    <a href="https://www.youtube.com/watch?v=8SfH3Ek0_Ew"> Probando TODO el menú de MR. BEAST BURGER | El Guzii </a>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
