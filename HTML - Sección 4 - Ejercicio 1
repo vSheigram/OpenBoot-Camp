@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ganando precisión con los selectores en CSS</title>
+        <link rel="stylesheet" href="estiloejercicioseccion4.css">
+    </head>
+
+    <body>
+        <div>
+            <h3 id="titulo" class="encabezado">Lista de compras</h3>
+            <tr>
+                <ul id="elemento-1" class="tamaño">
+                    Cerveza
+                </ul>
+
+                <ul id="elemento-2">
+                    Yerba
+                </ul>
+
+                <ul id="elemento 3">
+                    Rollo de cocina
+                </ul>
+
+                <ul id="elemento-4">
+                    Aceitunas
+                </ul>
+
+                <ul id="elemento-5">
+                    Soda
+                </ul>
+            </tr>
+
+            <h3 id="titulo" class="encabezado">Lista de supermercados   </h3>
+            <tr>
+                <ol id="elemento-1">
+                    Carrefour
+                </ol>
+
+                <ol id="elemento-2">
+                    Dia
+                </ol>
+
+                <ol id="elemento 3">
+                    Coto
+                </ol>
+
+                <ol id="elemento-4">
+                    Jumbo
+                </ol>
+
+                <ol id="elemento-5">
+                    Vea
+                </ol>
+            </tr>
+        </div>
+    </body>
+</html>
